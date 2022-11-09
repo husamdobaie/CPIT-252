@@ -1,1 +1,1 @@
-# CPIT-252
+# CPIT-252 LABS
